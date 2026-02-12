@@ -1,0 +1,314 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/jormungandr",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "jormungandr",
+    "name": "Jörmungandr",
+    "aliases": [
+      {
+        "name": "Miðgarðsormr",
+        "language": "Old Norse",
+        "meaning": "Midgard Serpent"
+      },
+      {
+        "name": "World Serpent",
+        "language": "English",
+        "meaning": "Serpent encircling the world"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Cosmic Serpent",
+    "tags": [
+      "serpent",
+      "norse-mythology",
+      "ragnarok",
+      "loki",
+      "thor",
+      "ouroboros",
+      "cosmic"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "The World Serpent of Norse mythology, enormous sea serpent encircling the entire Earth (Midgard), biting its own tail. Son of Loki, destined to fight Thor at Ragnarök in mutual destruction.",
+      "full": "Jörmungandr (the Midgard Serpent or World Serpent) is an enormous sea serpent in Norse mythology, so large it encircles the entire world (Midgard) and grasps its own tail. Son of Loki and the jötunn Angrboða, brother to Fenrir and Hel, Jörmungandr was thrown into the ocean by Odin as a child and grew to vast size. The serpent is the arch-enemy of Thor, the thunder god. They encountered each other twice before their final battle: during Thor's fishing trip (where Thor nearly caught the serpent), and at Útgarða-Loki (where the serpent was disguised as a cat). At Ragnarök, Jörmungandr will emerge from the ocean, poison the sky, and engage Thor in their destined mutual destruction—Thor will kill the serpent but die from its venom after taking nine steps. Jörmungandr represents cosmic order and boundaries, similar to the ouroboros symbol of eternal cycles. The World Serpent embodies the contained chaos of the ocean and the limits of the world itself."
+    },
+    "etymology": {
+      "origin": "Old Norse 'Jörmungandr' from 'jörmun' (great/mighty) + 'gandr' (wand/staff/monster)",
+      "meaning": "Great beast or mighty monster",
+      "alternate_name": "Miðgarðsormr (Midgard's serpent)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Cosmic Serpent",
+      "subtype": "World Serpent",
+      "variant": "Norse"
+    },
+    "related_phenomena": [
+      {
+        "id": "fenrir",
+        "name": "Fenrir",
+        "relationship": "sibling",
+        "description": "Monstrous wolf, brother of Jörmungandr"
+      },
+      {
+        "id": "naga",
+        "name": "Naga",
+        "relationship": "similar",
+        "description": "Serpent deities in Hindu/Buddhist mythology"
+      },
+      {
+        "id": "hydra",
+        "name": "Hydra",
+        "relationship": "similar",
+        "description": "Greek mythological serpent"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Enormous serpent encircling the entire world",
+      "size": "So large it encircles Midgard (Earth) and bites own tail",
+      "habitat": "The ocean surrounding Midgard",
+      "features": [
+        {
+          "feature": "Immense size",
+          "description": "Encircles the entire world, grasping tail in mouth",
+          "frequency": "always"
+        },
+        {
+          "feature": "Venomous",
+          "description": "Poison deadly enough to kill Thor",
+          "frequency": "always"
+        },
+        {
+          "feature": "Sea serpent",
+          "description": "Dwells in the ocean, part of aquatic realm",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Massive serpent forming a circle around the world"
+    },
+    "abilities": [
+      {
+        "ability": "World encirclement",
+        "description": "Large enough to surround entire Earth",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Deadly venom",
+        "description": "Poison can kill even gods (Thor)",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Sky poisoning",
+        "description": "At Ragnarök, poisons the sky with venom",
+        "frequency": "once",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Shape-shifting (indirect)",
+        "description": "Can be magically disguised (as cat by Útgarða-Loki)",
+        "frequency": "rare",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "hostile to Thor, maintaining cosmic boundaries",
+      "temperament": "Enemy of Thor; represents contained chaos",
+      "notable_acts": [
+        "Cast into ocean by Odin as infant",
+        "Grew to encircle the world",
+        "Nearly caught by Thor on fishing expedition",
+        "Disguised as cat, lifted by Thor at Útgarða-Loki",
+        "Destined to kill and be killed by Thor at Ragnarök"
+      ]
+    }
+  },
+
+  "mythology": {
+    "origin_story": {
+      "birth": "Born to Loki and Angrboða in Jötunheimr",
+      "parents": {
+        "father": "Loki (trickster god)",
+        "mother": "Angrboða (jötunn/giantess)"
+      },
+      "siblings": [
+        {
+          "name": "Fenrir",
+          "description": "Monstrous wolf destined to kill Odin"
+        },
+        {
+          "name": "Hel",
+          "description": "Goddess of the underworld"
+        }
+      ],
+      "context": "Odin threw the infant serpent into the ocean, where it grew to world-encircling size"
+    },
+    "major_myths": [
+      {
+        "title": "Cast into the Ocean",
+        "description": "Odin took Loki's three monstrous children and dealt with each: Hel to the underworld, Fenrir bound in Asgard, and Jörmungandr thrown into the ocean surrounding Midgard. There the serpent grew until it encircled the entire world and grasped its own tail."
+      },
+      {
+        "title": "Thor's Fishing Trip",
+        "description": "Thor went fishing with the jötunn Hymir using an ox head as bait. Jörmungandr took the bait, and Thor hauled the serpent up. As Thor prepared to strike with Mjölnir, Hymir cut the line in fear, and the serpent sank back into the sea. This was their first confrontation."
+      },
+      {
+        "title": "The Cat of Útgarða-Loki",
+        "description": "When Thor visited the hall of Útgarða-Loki, he was challenged to lift a cat. Despite Thor's immense strength, he could barely lift one paw off the ground. Revealed later: the 'cat' was Jörmungandr magically disguised. Thor lifting even part of the World Serpent was an incredible feat."
+      },
+      {
+        "title": "Ragnarök: Mutual Destruction",
+        "description": "At Ragnarök, Jörmungandr will release its tail and emerge from the ocean, thrashing and causing tidal waves. It will poison the sky with its venom. Thor will kill the serpent with Mjölnir, but he will take only nine steps before dying from the serpent's poison."
+      }
+    ],
+    "symbolism": [
+      {
+        "concept": "Cosmic order",
+        "explanation": "Encircling the world represents boundaries and order"
+      },
+      {
+        "concept": "Eternal cycle",
+        "explanation": "Biting own tail symbolizes eternal return, similar to ouroboros"
+      },
+      {
+        "concept": "Chaos contained",
+        "explanation": "Ocean's chaos held within world's boundaries"
+      },
+      {
+        "concept": "Natural enmity",
+        "explanation": "Thor (order, civilization) vs. Jörmungandr (primordial chaos)"
+      }
+    ],
+    "cultural_significance": "Jörmungandr embodies the Norse understanding of cosmic boundaries, the contained chaos of the ocean, and the cyclical nature of destruction and renewal. The mutual destruction with Thor represents the end of the old order."
+  },
+
+  "distribution": {
+    "cultural_range": {
+      "origin": "Norse/Scandinavian mythology",
+      "geographic_focus": [
+        "Scandinavia (Norway, Sweden, Denmark, Iceland)",
+        "Germanic regions",
+        "Viking cultural sphere"
+      ],
+      "spread": "Across Norse cultural influence including British Isles, Iceland, Greenland"
+    },
+    "mythological_location": {
+      "name": "The ocean surrounding Midgard",
+      "description": "Jörmungandr dwells in the sea that encircles the world of humans",
+      "significance": "Represents world boundaries and cosmic order"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Norse/Germanic mythology; part of Loki's monstrous children and Ragnarök",
+      "earliest_sources": "Poetic Edda (13th century from earlier oral tradition)",
+      "development": "Central to Thor mythology and end-times prophecy"
+    },
+    "timeline": [
+      {
+        "date": "Viking Age (8th-11th century)",
+        "event": "Oral tradition and art",
+        "significance": "Thor vs. serpent depicted in Viking Age art and poetry"
+      },
+      {
+        "date": "~1220 CE",
+        "event": "Prose Edda",
+        "significance": "Snorri Sturluson records detailed myths"
+      },
+      {
+        "date": "13th century CE",
+        "event": "Poetic Edda compiled",
+        "significance": "Hymiskviða (Thor's fishing) and Völuspá (Ragnarök) recorded"
+      },
+      {
+        "date": "Modern Era",
+        "event": "Cultural revival",
+        "significance": "Jörmungandr in fantasy media, games, popular culture"
+      }
+    ]
+  },
+
+  "cultural": {
+    "ancient_sources": [
+      "Poetic Edda (Völuspá, Hymiskviða, Grímnismál)",
+      "Prose Edda (Gylfaginning, Skáldskaparmál)",
+      "Skaldic poetry"
+    ],
+    "popular_culture": {
+      "literature": [
+        "Marvel Comics (Thor comics)",
+        "Neil Gaiman's Norse Mythology",
+        "Fantasy novels featuring Norse mythology"
+      ],
+      "film_tv": [
+        "Marvel Cinematic Universe (Thor movies, referenced)",
+        "Norse-themed series and documentaries"
+      ],
+      "games": [
+        "God of War (2018) - major character",
+        "God of War Ragnarök (2022) - central role",
+        "Assassin's Creed Valhalla",
+        "Smite (playable character)"
+      ],
+      "other": [
+        "Heavy metal band imagery",
+        "Ouroboros symbol associations",
+        "Symbol of Norse mythology and cosmic cycles"
+      ]
+    },
+    "modern_usage": "Symbol of cosmic boundaries, eternal cycles, and the relationship between order and chaos. Popular in Norse revival movements and fantasy media."
+  },
+
+  "sources": [
+    {
+      "id": "poetic-edda",
+      "type": "ancient_text",
+      "title": "Poetic Edda",
+      "date": "13th century (compiled from earlier sources)",
+      "description": "Primary sources including Hymiskviða (fishing trip) and Völuspá (Ragnarök)"
+    },
+    {
+      "id": "prose-edda",
+      "type": "ancient_text",
+      "title": "Prose Edda",
+      "authors": ["Snorri Sturluson"],
+      "date": "~1220",
+      "description": "Detailed accounts of Jörmungandr myths"
+    },
+    {
+      "id": "lindow-2001",
+      "type": "book",
+      "title": "Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs",
+      "authors": ["John Lindow"],
+      "publication": "Oxford University Press",
+      "date": "2001",
+      "isbn": "978-0195153828"
+    }
+  ]
+}
